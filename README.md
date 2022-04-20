@@ -1,2 +1,2 @@
 # git-learn
-Central repo
+hi from Central repo
